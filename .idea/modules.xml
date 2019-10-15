@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Prism-master.iml" filepath="$PROJECT_DIR$/Prism-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prism/prism.iml" filepath="$PROJECT_DIR$/prism/prism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prism-palette/prism-palette.iml" filepath="$PROJECT_DIR$/prism-palette/prism-palette.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prism-viewpager/prism-viewpager.iml" filepath="$PROJECT_DIR$/prism-viewpager/prism-viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-palette/sample-palette.iml" filepath="$PROJECT_DIR$/sample-palette/sample-palette.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-viewpager/sample-viewpager.iml" filepath="$PROJECT_DIR$/sample-viewpager/sample-viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-lib/test-lib.iml" filepath="$PROJECT_DIR$/test-lib/test-lib.iml" />
+    </modules>
+  </component>
+</project>
